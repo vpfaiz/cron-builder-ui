@@ -2,7 +2,17 @@
 
 A beautiful, customizable cron expression builder component for React applications. Built with TypeScript, Tailwind CSS, and Radix UI primitives.
 
-![Cron Builder UI Demo](https://via.placeholder.com/800x400/4f46e5/ffffff?text=Cron+Builder+UI+Demo)
+## Screenshots
+
+### Light Mode
+Clean, modern interface with intuitive schedule type selection:
+
+![Light Mode](https://raw.githubusercontent.com/vpfaiz/cron-builder-ui/main/src/Screenshot.png)
+
+### Dark Mode  
+Full dark mode support with excellent contrast and readability:
+
+![Dark Mode](https://raw.githubusercontent.com/vpfaiz/cron-builder-ui/main/src/Screenshot-dark.png)
 
 ## Features
 

@@ -1,6 +1,6 @@
 {
   "name": "@vpfaiz/cron-builder-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A beautiful, customizable cron expression builder component for React, built with shadcn/ui design patterns",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -21,7 +21,7 @@
     "shadcn-ui",
     "radix-ui"
   ],
-  "author": "Your Name",
+  "author": "vpfaiz",
   "license": "MIT",
   "repository": {
     "type": "git",
